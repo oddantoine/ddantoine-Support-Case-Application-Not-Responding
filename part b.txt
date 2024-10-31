@@ -1,0 +1,7 @@
+https://answers.microsoft.com/en-us/msoffice/forum/all/word-keeps-freezing-not-responding/0123df54-d24a-49e6-8df0-c1bcb15227a4
+https://answers.microsoft.com/en-us/msoffice/forum/all/why-does-my-microsoft-work-keep-not-responding/65b96dec-41ec-4ba4-aed7-99fe2652b8db
+https://www.lifewire.com/fix-microsoft-word-not-responding-4688998
+
+disable add-ins on word go file then options then add-ins 
+go in the coms add-in box and disable all of the add-ins
+press ok
